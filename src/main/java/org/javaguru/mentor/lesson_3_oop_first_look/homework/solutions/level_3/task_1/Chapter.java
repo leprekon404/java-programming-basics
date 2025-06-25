@@ -1,6 +1,6 @@
 package org.javaguru.mentor.lesson_3_oop_first_look.homework.solutions.level_3.task_1;
 
-class Chapter {
+public class Chapter {
 
     private String title;
     private String text;
